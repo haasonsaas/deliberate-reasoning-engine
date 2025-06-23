@@ -1,0 +1,50 @@
+# Source files
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.eslintrc*
+.prettierrc*
+
+# Test files
+test-*.js
+examples/
+__tests__/
+*.test.*
+*.spec.*
+
+# Development files
+.github/
+CONTRIBUTING.md
+.editorconfig
+.gitattributes
+
+# Build artifacts
+*.map
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+.pnp.*
+.yarn/*
+
+# Misc
+.env
+.env.*
+!.env.example
