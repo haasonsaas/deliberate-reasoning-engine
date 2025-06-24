@@ -1,6 +1,6 @@
 {
   "name": "deliberate-reasoning-engine",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "MCP server that transforms linear AI reasoning into structured, auditable thought graphs",
   "keywords": [
     "mcp",
@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.1",
+    "@types/sqlite3": "^3.1.11",
+    "sqlite3": "^5.1.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
