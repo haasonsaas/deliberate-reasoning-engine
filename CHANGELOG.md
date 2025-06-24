@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-06-23
+
+### Changed
+- Complete TypeScript refactor with strict type checking
+- Separated concerns into modules (server, types, validation)
+- Improved code organization and maintainability
+- Enhanced type safety throughout the codebase
+
 ### Added
 - Hypothesis scoring based on evidence
 - Session persistence and resumption  
