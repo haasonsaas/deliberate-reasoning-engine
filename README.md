@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/haasonsaas-deliberate-reasoning-engine-badge.png)](https://mseep.ai/app/haasonsaas-deliberate-reasoning-engine)
+
 # Deliberate Reasoning Engine (DRE)
 
 [![npm version](https://img.shields.io/npm/v/deliberate-reasoning-engine.svg)](https://www.npmjs.com/package/deliberate-reasoning-engine)
